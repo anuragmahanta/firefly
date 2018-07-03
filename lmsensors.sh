@@ -1,5 +1,5 @@
 #!/bin/bash
-#Please try this in test environment first. If you are satisfied , then please you use it or modify it accorfing to your system's requirements
+#Please try this in test environment first. If you are satisfied , then please you use it or modify it according to your system's requirements
 #To run this script yo have to configure two things.
 #lmsensors
 #mail server (I am running this in fedora 24 (4.11.12-100.fc24.x86_64))
